@@ -32,8 +32,8 @@ touch fichier.txt  → créer un fichier vide
 - Chaque commande fait une seule chose mais la fait bien
 
 ## Difficulté du jour
-- [écris ce qui t'a bloqué]
-- [comment tu l'as résolu]
+- [J'ai eu des probleme de connectiviter sur ubuntu 22.04 lts.]
+- [Apres plusieur tentative la restauration au valeur initiale du virtual network editor tout est revenue à la normal.]
 
 ## Sources utilisées
 - NetAcad NDG Linux Module 1-2
